@@ -1,0 +1,2 @@
+mainprs:sensors:usr_ctrl
+-DCATKIN_DEVEL_PREFIX=/home/darkflamemalster/catkin/devel -DCMAKE_INSTALL_PREFIX=/home/darkflamemalster/catkin/install -G Unix Makefiles
